@@ -1,0 +1,9 @@
+torch>=1.8.0
+opencv-python
+numpy
+matplotlib
+pillow
+PyYAML
+tqdm
+scipy
+face_recognition
